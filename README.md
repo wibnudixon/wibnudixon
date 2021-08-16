@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ello, gov’nor! 👋
 
 - :innocent: I’m currently working on udemy courses
 - :wink: I’m currently learning python,django
