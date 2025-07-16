@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Wibnudixon
+# 👋 Hi, I'm Wibnu Dickson
 
 **Data Engineer | Cloud Data Solutions | Python & PySpark Enthusiast**
 
