@@ -42,7 +42,7 @@ I'm passionate about collaborating in fast-paced teams, leveraging DevOps princi
 - **Cloud:** AWS (S3, DMS, Redshift, QuickSight, EMR), Azure
 - **Orchestration:** Airflow, Azure Data Factory (ADF)
 - **Data Integration:** Alteryx
-- **DevOps:** CI/CD, Git
+
 
 ---
 
