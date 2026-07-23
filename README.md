@@ -1,50 +1,25 @@
-# 👋 Hi, I'm Wibnu Dickson
-
-**Data Engineer | Cloud Data Solutions | Python & PySpark Enthusiast**
-
-With 3+ years of experience, I specialize in designing and optimizing large-scale ELT pipelines and cloud-native data platforms across financial services, healthcare, and retail sectors. My expertise lies in Python, PySpark, SQL, and orchestration frameworks like Azure Data Factory (ADF) and Airflow, working extensively on Azure and AWS.
-
-I have a proven track record of:
-- Migrating legacy systems to modern cloud architectures
-- Building reusable datasets and analytics-ready data models
-- Delivering data solutions that drive business decisions
-
-I'm passionate about collaborating in fast-paced teams, leveraging DevOps principles and CI/CD best practices to ensure robust, scalable, and high-quality data platforms.
-
----
-
-## 💼 Professional Experience
-
-### Data Engineer — Nielsen  
-*Bangalore, India | 07/2024 – 02/2025*
-- Designed and developed Alteryx workflows for data integration and automation
-- Supported data science teams by troubleshooting complex workflows and improving process efficiency
-
-### Data Engineer II — Ganit Inc  
-*Bangalore, India | 04/2023 – 06/2024*
-- Managed end-to-end migration of MSSQL and MySQL sources to AWS S3, designing the data lake using medallion architecture
-- Developed and optimized ELT pipelines with Python and PySpark, handling 450+ GB of retail sales data
-- Orchestrated PySpark EMR jobs to reduce data processing time by 40%
-- Built AWS QuickSight dashboards to visualize KPIs and enable faster decision-making
-
-### Senior Data Analyst — Ganit Inc  
-*Bangalore, India | 11/2021 – 04/2023*
-- Developed customer and product 360 tables on Databricks, delivering holistic insights
-- Migrated Oracle schema to Redshift using AWS SCT, ensuring seamless compatibility
-- Assisted in cloud migration for a major Indian retailer, supporting deployment to 1000+ stores
-
----
-
-## ⚡️ Technical Skills
-
-- **Languages:** Python, SQL
-- **Big Data:** PySpark, Databricks, EMR
-- **Cloud:** AWS (S3, DMS, Redshift, QuickSight, EMR), Azure
-- **Orchestration:** Airflow, Azure Data Factory (ADF)
-- **Data Processing Tool:** Alteryx
+I’ve worked across AWS, GCP  using Databricks, PySpark, Python and SQL to deliver end-to-end data solutions: from requirement gathering and pipeline/model execution to QA, bug triage and business handoff. I enjoy solving messy data problems, especially when there’s ambiguity, tight deadlines, and a need to balance speed with quality.
 
 
----
 
-Let's connect!  
-[LinkedIn](#) | [Email](#) <!-- Add your links here if you wish -->
+# A few examples of my work:
+
+/ Improved model data-processing runtime by ~ 40 - 60% by moving workflows from pandas/Python to PySpark distributed processing.
+
+/ Delivered customer and product data models in Databricks to support analytics use cases through data modeling, transformations, and reusable curated datasets.
+
+/ Supported AWS migration initiatives, including a Redshift modernization PoC for Oracle stored procedures using AWS SCT, with implementation documentation for scale-out migration.
+
+/ Built and maintained production pipelines supporting weekly and monthly model runs in Vertex AI, including script scheduling, execution reliability, and ongoing maintenance.
+
+/ Automated legacy ad-hoc reporting workflows into scheduled cloud pipelines to improve consistency and reduce manual effort.
+
+
+
+I’m also comfortable being the least experienced person in the room-because I’ll still find ways to add value through discipline, learning speed, and consistent execution.
+
+
+
+
+
+For football fans: I relate my working style to players like Busquets or Rodri-not always flashy, but focused on the right small touches that help the whole system perform better. Not every move works but each iteration improves the play and strong projects are built that way.
