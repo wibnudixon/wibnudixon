@@ -11,7 +11,9 @@ I’ve worked across AWS, GCP  using Databricks, PySpark, Python and SQL to deli
 / Automated legacy ad-hoc reporting workflows into scheduled cloud pipelines to improve consistency and reduce manual effort.
 
 
-
 I’m also comfortable being the least experienced person in the room-because I’ll still find ways to add value through discipline, learning speed, and consistent execution.
 
 For football fans: I relate my working style to players like Busquets or Rodri-not always flashy, but focused on the right small touches that help the whole system perform better. Not every move works but each iteration improves the play and strong projects are built that way.
+
+
+Currently working on an article .... 
