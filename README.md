@@ -1,4 +1,5 @@
-I’ve worked across AWS, GCP  using Databricks, PySpark, Python and SQL to deliver end-to-end data solutions: from requirement gathering and pipeline/model execution to QA, bug triage and business handoff. I enjoy solving messy data problems, especially when there’s ambiguity, tight deadlines, and a need to balance speed with quality.
+I’ve worked across AWS, GCP  using Databricks, PySpark, Python and SQL to deliver end-to-end data solutions: from requirement gathering and pipeline/model execution to QA 
+and business handoff. I enjoy solving messy data problems, especially when there’s ambiguity, tight deadlines, and a need to balance speed with quality.
 
 - Improved model data-processing runtime by ~ 40 - 60% by moving workflows from pandas/Python to PySpark distributed processing.
 - Delivered customer and product data models in Databricks to support analytics use cases through data modeling, transformations, and reusable curated datasets.
