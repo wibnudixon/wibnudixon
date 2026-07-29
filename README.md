@@ -10,3 +10,4 @@ Iâ€™m also comfortable being the least experienced person in the room-because Iâ
 I relate my working style to being steady, thoughtful, and focused on the small decisions that help the whole system perform better. Not every move works, but each iteration improves the process, and strong projects are built that way.
 
 Currently working on an article .... 
+( If anyone is willing to volunteer in doing some research, a blend of behavioral science and sports analytics, people who are willing to volunteer please send a ping to my email id, wibnu@icloud.com)
