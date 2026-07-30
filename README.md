@@ -40,7 +40,6 @@ It has been nearly a year since I left my last job, following my wife’s transf
 [The hardest part of job searching is not rejection](https://www.linkedin.com/pulse/hardest-part-job-searching-rejection-demand-improve-without-dickson-ehmoe). It is the demand to improve without feedback.
 
 I also write at the intersection of football, behavior, and data. My work includes:
-
 an essay on how my upbringing in India and [life in London have shaped my football allegiances](https://www.linkedin.com/pulse/job-search-football-match-change-instinct-wibnu-dickson-sy8pe)
 and an ongoing piece arguing that certain games have distinct behavioral environments, where survival pressure gives way to freer, more expressive play
 What excites me most is, grounding these ideas in evidence using measurable signals (for example, defensive intensity vs. risk progression). I am currently developing several related ideas.
