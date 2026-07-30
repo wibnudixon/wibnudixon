@@ -1,43 +1,40 @@
-I’m currently working on an article and looking for volunteers to support the research.
-The topic is a blend of behavioral science and sports analytics.
+# Volunteer Research Collaboration Opportunity
 
-If you’re interested in contributing, please send me a message at wibnu@icloud.com.
+## About
+I’m currently working on an article at the intersection of **Behavioral Science** and **Sports Analytics**, and I’m looking for volunteers to contribute to research and analysis.
 
-Skills Required
-Critical Thinking (Essential)
-Statistical Modeling (Desired)
-Interest in Reading Research Literature (Essential)
-Language is not a barrier (Tamil/Malayalam is fine; we can coordinate easily).
-Don’t worry too much about grammar — focus on clearly communicating your ideas. Grammar can always be improved later.
-GitHub Collaboration (Desired)
-I can teach this if you don’t know it yet.
-Communication (Essential)
-Be vocal.
-Question your own thinking.
-Be clear about what you are trying to do; if not, discuss openly with the team.
-Be direct, honest, humble, and respectful.
-Since this is a volunteering opportunity, these communication traits will help us coordinate better and do meaningful work together.
+If you're interested, contact: **wibnu@icloud.com**
 
-Benefits
-Hands-on experience in hypothesis testing and modeling
-Green contribution patches on your GitHub profile
-Practical experience collaborating with others
-Coding exposure in Python, R, and PySpark
+## Skills Needed
+- Critical Thinking (**Essential**)
+- Statistical Modeling (**Desired**)
+- Reading Research Literature (**Essential**)
+- GitHub Collaboration (**Desired**, can be taught)
+- Communication (**Essential**): direct, honest, humble, respectful
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-I’ve worked across AWS, GCP  using Databricks, PySpark, Python and SQL to deliver end-to-end data solutions: from requirement gathering and pipeline/model execution to QA 
-and business handoff. I enjoy solving messy data problems, especially when there’s ambiguity, tight deadlines, and a need to balance speed with quality.
+Language is not a barrier (Tamil/Malayalam is fine).  
+Focus on clarity of ideas over perfect grammar.
 
-- Improved model data-processing runtime by ~ 40 - 60% by moving workflows from pandas/Python to PySpark distributed processing
-- Delivered customer and product data models in Databricks to support analytics use cases through data modeling, transformations, and reusable curated datasets
-- Supported AWS migration initiatives, including a Redshift modernization PoC for Oracle stored procedures using AWS SCT, with implementation documentation for scale-out migration
-- Built and maintained production pipelines supporting weekly and monthly model runs in Vertex AI, including script scheduling, execution reliability, and ongoing maintenance
-- Automated legacy ad-hoc reporting workflows into scheduled cloud pipelines to improve consistency and reduce manual effort
+## Benefits
+- Hands-on hypothesis testing and modeling
+- GitHub contribution activity
+- Team collaboration experience
+- Coding exposure in Python, R, and PySpark
 
-I’m also comfortable being the least experienced person in the room-because I’ll still find ways to add value through discipline, learning speed, and consistent execution.
-I relate my working style to being steady, thoughtful, and focused on the small decisions that help the whole system perform better. Not every move works, but each iteration improves the process, and strong projects are built that way.
+## Note
+This is a volunteer-based collaboration. Strong communication and ownership will help us coordinate and create meaningful outcomes.
 
-Currently working on an article ..
-( If anyone is willing to volunteer in doing some research, a blend of behavioral science and sports analytics, people who are willing to volunteer please send a ping to my email id, wibnu@icloud.com)
+## Professional Profile (CV Snapshot)
+Hey guys, you can call me Wibnu.
+I have worked across **AWS** and **GCP** using **Databricks, PySpark, Python, and SQL** to deliver end-to-end data solutions, from requirement gathering and pipeline/model execution to QA and business handoff.
+I enjoy solving ambiguous, messy data problems, especially under tight timelines where balancing speed and quality is critical.
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Highlights
+- Improved model data-processing runtime by **~40–60%** by migrating workflows from pandas/Python to distributed **PySpark**
+- Delivered customer and product data models in **Databricks** through data modeling, transformations, and reusable curated datasets
+- Supported **AWS migration** initiatives, including a Redshift modernization PoC for Oracle stored procedures using **AWS SCT**, with documentation for scale-out migration
+- Built and maintained production pipelines for weekly/monthly model runs in **Vertex AI**, including scheduling, execution reliability, and maintenance
+- Automated legacy ad-hoc reporting into scheduled cloud pipelines, improving consistency and reducing manual effort
+
+I’m comfortable being the least experienced person in the room, and still adding value through discipline, fast learning, and consistent execution.
+
