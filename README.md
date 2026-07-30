@@ -31,7 +31,7 @@ Before starting, selected volunteers will be asked to fill out a simple Excel fo
 
 Based on this, responsibilities will be assigned to match each volunteer’s availability.
 
-##### Note
+##### Note:
 This is a volunteer-based collaboration. Strong communication and ownership will help us coordinate and create meaningful outcomes.
 
 ## About Me:
@@ -51,7 +51,7 @@ That momentum is exactly why I am now looking for volunteers.
 
 I relate my working style to being steady, thoughtful, and focused on the small decisions that help the whole system perform better. Not every move works, but each iteration improves the process, and strong projects are built that way.
 
-## Currently working on  
+## Currently working on the following  
 - testing couple of hypothesis, running models and so on. 
 - figuring out how to build a agentic tax module. (Progress: 1%)
 - working on a solution to tackle bike theft and thieves (End goal is a product unlike the research article | still laying the foundation ) (Progress: 0.0001% )
