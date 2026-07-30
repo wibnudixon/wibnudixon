@@ -12,9 +12,9 @@ What excites me most is, grounding these ideas in evidence using measurable sign
 I relate my working style to being steady, thoughtful, and focused on the small decisions that help the whole system perform better. Not every move works, but each iteration improves the process, and strong projects are built that way.
 
 ## Currently working on the following  
-- testing couple of hypothesis, running models and so on. 
-- figuring out how to build a agentic tax module. (Progress: 1%)
-- working on a solution to tackle bike theft and thieves (End goal is a product unlike the research article | still laying the foundation ) (Progress: 0.0001% )
+- testing couple of hypothesis, running models and so on
+- figuring out how to build a agentic tax module
+
 
 
 
