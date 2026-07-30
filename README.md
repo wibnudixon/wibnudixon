@@ -23,7 +23,7 @@ Focus on clarity of ideas and communicating it over perfect grammar and language
 - GitHub contribution activity
 - Team collaboration experience
 - Coding exposure in Python, R, and PySpark
-- 
+  
 ## Time Commitment & Responsibility Allocation
 The number of hours will depend on the time each volunteer can allocate.
 
