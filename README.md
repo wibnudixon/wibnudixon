@@ -1,6 +1,5 @@
-# Volunteer Research Collaboration Opportunity
+## Volunteer Research Collaboration Opportunity
 
-## About
 I’m currently working on an article at the intersection of **Behavioral Science** and **Sports Analytics**, and I’m looking for volunteers to contribute to research and analysis.
 
 If you're interested, contact: **wibnudickson@gmail.com**
