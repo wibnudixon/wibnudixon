@@ -1,3 +1,30 @@
+I’m currently working on an article and looking for volunteers to support the research.
+The topic is a blend of behavioral science and sports analytics.
+
+If you’re interested in contributing, please send me a message at wibnu@icloud.com.
+
+Skills Required
+Critical Thinking (Essential)
+Statistical Modeling (Desired)
+Interest in Reading Research Literature (Essential)
+Language is not a barrier (Tamil/Malayalam is fine; we can coordinate easily).
+Don’t worry too much about grammar — focus on clearly communicating your ideas. Grammar can always be improved later.
+GitHub Collaboration (Desired)
+I can teach this if you don’t know it yet.
+Communication (Essential)
+Be vocal.
+Question your own thinking.
+Be clear about what you are trying to do; if not, discuss openly with the team.
+Be direct, honest, humble, and respectful.
+Since this is a volunteering opportunity, these communication traits will help us coordinate better and do meaningful work together.
+
+Benefits
+Hands-on experience in hypothesis testing and modeling
+Green contribution patches on your GitHub profile
+Practical experience collaborating with others
+Coding exposure in Python, R, and PySpark
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 I’ve worked across AWS, GCP  using Databricks, PySpark, Python and SQL to deliver end-to-end data solutions: from requirement gathering and pipeline/model execution to QA 
 and business handoff. I enjoy solving messy data problems, especially when there’s ambiguity, tight deadlines, and a need to balance speed with quality.
 
@@ -10,5 +37,7 @@ and business handoff. I enjoy solving messy data problems, especially when there
 I’m also comfortable being the least experienced person in the room-because I’ll still find ways to add value through discipline, learning speed, and consistent execution.
 I relate my working style to being steady, thoughtful, and focused on the small decisions that help the whole system perform better. Not every move works, but each iteration improves the process, and strong projects are built that way.
 
-Currently working on an article .... 
+Currently working on an article ..
 ( If anyone is willing to volunteer in doing some research, a blend of behavioral science and sports analytics, people who are willing to volunteer please send a ping to my email id, wibnu@icloud.com)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
