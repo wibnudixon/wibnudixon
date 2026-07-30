@@ -11,10 +11,10 @@ If you're interested, contact: **wibnudickson@gmail.com**
 - Reading Research Literature (**E**)
 - GitHub Collaboration (**D**, can be taught)
 - Communication (**E**): direct, honest, humble, respectful
-  - *E - Essential D - Desired*
   - Please address me as Wibnu.
   - I’m happy to address you respectfully as Sir or Ma’am if that is your preference.
   - Focus on clarity of ideas and communicating it over perfect grammar and language.
+####   *E - Essential D - Desired*
 
 ## Benefits
 - Hands-on hypothesis testing and modeling
