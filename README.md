@@ -1,4 +1,4 @@
-# About me (Please read before scrolling down)
+###(Please read before scrolling down)
 ## Volunteer Research Collaboration Opportunity
 
 I’m currently working on an article at the intersection of **Behavioral Science** and **Sports Analytics**, and I’m looking for volunteers to contribute to research and analysis.
