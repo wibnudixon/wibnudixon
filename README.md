@@ -14,8 +14,6 @@ If you're interested, contact: **wibnudickson@gmail.com**
 - *E - Essential D - Desired*
 - Please address me as Wibnu.
 I’m happy to address you respectfully as Sir or Ma’am if that is your preference.
-
-Language is not a barrier (Tamil/Malayalam is fine).  
 Focus on clarity of ideas and communicating it over perfect grammar and language.
 
 ## Benefits
