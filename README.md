@@ -6,7 +6,7 @@ I’m currently working on an article at the intersection of **Behavioral Scienc
 If you're interested, contact: **wibnudickson@gmail.com**
 
 ## Skills Needed:
-- Critical Thinking (**E**) Can be improved by reading so  (**D**)
+- Critical Thinking (**D**) 
 - Statistical Modeling (**D**)
 - Interest in Reading Research Literature (**E**)
 - GitHub Collaboration (**D**, can be taught)
