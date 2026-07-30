@@ -11,7 +11,7 @@ If you're interested, contact: **wibnudickson@gmail.com**
 - Reading Research Literature (**E**)
 - GitHub Collaboration (**D**, can be taught)
 - Communication (**E**): direct, honest, humble, respectful
-*E - Essential D - Desired*
+- *E - Essential D - Desired*
 - Please address me as Wibnu.
 I’m happy to address you respectfully as Sir or Ma’am if that is your preference.
 
