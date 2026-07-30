@@ -36,5 +36,5 @@ I enjoy solving ambiguous, messy data problems, especially under tight timelines
 - Built and maintained production pipelines for weekly/monthly model runs in **Vertex AI**, including scheduling, execution reliability, and maintenance
 - Automated legacy ad-hoc reporting into scheduled cloud pipelines, improving consistency and reducing manual effort
 
-I’m comfortable being the least experienced person in the room, and still adding value through discipline, fast learning, and consistent execution.
+I relate my working style to being steady, thoughtful, and focused on the small decisions that help the whole system perform better. Not every move works, but each iteration improves the process, and strong projects are built that way.
 
