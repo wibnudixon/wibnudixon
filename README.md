@@ -7,12 +7,7 @@ It has been nearly a year since I left my last job, following my wife’s transf
 I also write at the intersection of football, behavior, and data. My work includes:
 an essay on how my upbringing in India and [life in London have shaped my football allegiances](https://www.linkedin.com/pulse/job-search-football-match-change-instinct-wibnu-dickson-sy8pe)
 and an ongoing piece arguing that certain games have distinct behavioral environments, where survival pressure gives way to freer, more expressive play
-What excites me most is, grounding these ideas in evidence using measurable signals (for example, defensive intensity vs. risk progression). I am currently developing several related ideas.
-
-My goal is to move these ideas toward a working paper.
-Six months ago, I felt the probability of that happening was around 2%.
-With recent progress in hypothesis testing, I now estimate it at around 4% in a short span.
-That momentum is exactly why I am now looking for volunteers.
+What excites me most is, grounding these ideas in evidence using measurable signals (for example, defensive intensity vs. risk progression). 
 
 I relate my working style to being steady, thoughtful, and focused on the small decisions that help the whole system perform better. Not every move works, but each iteration improves the process, and strong projects are built that way.
 
