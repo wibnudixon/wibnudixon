@@ -24,7 +24,7 @@ Focus on clarity of ideas over perfect grammar.
 ## Note
 This is a volunteer-based collaboration. Strong communication and ownership will help us coordinate and create meaningful outcomes.
 
-## Professional Profile (CV Snapshot)
+## Professional Profile 
 Hey guys, you can call me Wibnu.
 I have worked across **AWS** and **GCP** using **Databricks, PySpark, Python, and SQL** to deliver end-to-end data solutions, from requirement gathering and pipeline/model execution to QA and business handoff.
 I enjoy solving ambiguous, messy data problems, especially under tight timelines where balancing speed and quality is critical.
