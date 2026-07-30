@@ -8,7 +8,7 @@ If you're interested, contact: **wibnudickson@gmail.com**
 ## Skills Needed:
 - Critical Thinking (**D**) 
 - Statistical Modeling (**D**)
-- Interest in Reading Research Literature (**E**)
+- Interest in  Research  (**E**)
 - GitHub Collaboration (**D**, can be taught)
 - Communication (**E**): direct, honest, humble, respectful
   - Please address me as Wibnu.
