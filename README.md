@@ -1,38 +1,3 @@
-### (Please read before scrolling down)
-## Volunteer Research Collaboration Opportunity:
-
-I’m currently working on an article at the intersection of **Behavioral Science** and **Sports Analytics**, and I’m looking for volunteers to contribute to research and analysis.
-
-If you're interested, contact: **wibnudickson@gmail.com**
-
-## Skills Needed:
-- Critical Thinking (**D**) 
-- Statistical Modeling (**D**)
-- Interest in  Research  (**E**)
-- GitHub Collaboration (**D**, can be taught)
-- Communication (**E**): direct, honest, humble, respectful
-  - Please address me as Wibnu.
-  - I’m happy to address you respectfully as Sir or Ma’am if that is your preference.
-  - Focus on clarity of ideas and communicating it over perfect grammar and language.
-####   *E - Essential D - Desired*
-
-## Benefits:
-- Hands-on hypothesis testing and modeling
-- GitHub contribution activity
-- Team collaboration experience
-- Coding exposure in Python, R, and PySpark
-  
-## Time Commitment & Responsibility Allocation:
-The number of hours will depend on the time each volunteer can allocate.
-
-Before starting, selected volunteers will be asked to fill out a simple Excel form indicating:
-- How many hours they can contribute
-- Their available days/times
-
-Based on this, responsibilities will be assigned to match each volunteer’s availability.
-
-##### Note:
-This is a volunteer-based collaboration. Strong communication and ownership will help us coordinate and create meaningful outcomes.
 
 ## About Me:
 
