@@ -43,7 +43,7 @@ I also write at the intersection of football, behavior, and data. My work includ
 
 an essay on how my upbringing in India and [life in London have shaped my football allegiances](https://www.linkedin.com/pulse/job-search-football-match-change-instinct-wibnu-dickson-sy8pe)
 and an ongoing piece arguing that certain games have distinct behavioral environments, where survival pressure gives way to freer, more expressive play
-What excites me most is grounding these ideas in evidence using measurable signals (for example, defensive intensity vs. risk progression). I am currently developing several related ideas.
+What excites me most is, grounding these ideas in evidence using measurable signals (for example, defensive intensity vs. risk progression). I am currently developing several related ideas.
 
 My goal is to move these ideas toward a working paper.
 Six months ago, I felt the probability of that happening was around 2%.
