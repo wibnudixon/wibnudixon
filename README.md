@@ -4,7 +4,7 @@ Hi, You can call me Wibnu.
 
 I’ve worked across different cloud systems  using Databricks, Alteryx, PySpark, Python and SQL to deliver end-to-end data solutions: from requirement gathering and pipeline/model execution to QA, business handoff. I enjoy solving messy data problems, especially when there’s ambiguity.
 
-#### A few examples of my work:
+##### A few examples of my work:
 - Improved model data-processing runtime by (x) % by moving workflows from pandas/Python to PySpark distributed processing
 - Delivered customer and product data models in Databricks to support analytics use cases through data modeling, transformations, and reusable curated datasets
 - Supported AWS migration initiatives, including a Redshift modernization PoC for Oracle stored procedures using AWS SCT, with implementation documentation for scale-out migration
@@ -17,7 +17,7 @@ I am comfortable being the least experienced person in the room-because I’ll s
 I relate my working style to being steady, thoughtful, and focused on the small decisions that help the whole system perform better. Not every move works, but each iteration improves the process, and strong projects are built that way.
 
 
-##### Currently working on the following  
+##### Currently working on the following: 
 - Working on Statistical modelling with Python. 
 - Building a Agentic LLM for my local use.
 
