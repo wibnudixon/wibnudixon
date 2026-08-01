@@ -21,6 +21,31 @@ I relate my working style to being steady, thoughtful, and focused on the small 
 - Working on Statistical modelling with Python. 
 - Building a Agentic LLM for my local use.
 
+##### Skills I gathered so far:
+### Skills & Keywords
 
+![Startup Experience](https://img.shields.io/badge/Startup%20Experience-4%20Years-FF6B35?style=flat-square&logo=rocket&logoColor=white)
+![People Architect](https://img.shields.io/badge/People%20Architect-Team%20Builder-6F42C1?style=flat-square&logo=teamspeak&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Data Pipelines](https://img.shields.io/badge/Data%20Pipelines-0A66C2?style=flat-square&logo=apacheairflow&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-4B8BBE?style=flat-square&logo=databricks&logoColor=white)
+![Analytics](https://img.shields.io/badge/Analytics-5B2CFF?style=flat-square&logo=googleanalytics&logoColor=white)
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-1F6FEB?style=flat-square&logo=apachehadoop&logoColor=white)
+
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Alteryx](https://img.shields.io/badge/Alteryx-0078C0?style=flat-square&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![Team Collaboration](https://img.shields.io/badge/Team%20Collaboration-2EA44F?style=flat-square&logo=github&logoColor=white)
+![Communication](https://img.shields.io/badge/Communication-9146FF?style=flat-square&logo=googledocs&logoColor=white)
+
+![Alteryx Designer Core Certified](https://img.shields.io/badge/Alteryx%20Designer%20Core-Certified-0078C0?style=flat-square&logoColor=white)
 
 
