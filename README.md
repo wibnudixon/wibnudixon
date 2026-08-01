@@ -1,6 +1,6 @@
 ## Hi, you can call me Wibnu.
 
-I’ve worked across multiple cloud systems using Databricks, Alteryx, PySpark, Python, and SQL to deliver end-to-end data solutions — from requirement gathering and pipeline/model execution to QA and business handoff. I enjoy solving messy data problems, especially when there’s ambiguity.
+I’ve worked across multiple cloud systems using Databricks, Alteryx, PySpark, Python, and SQL to deliver end-to-end data solutions - from requirement gathering and pipeline/model execution to QA and business handoff. I enjoy solving messy data problems, especially when there’s ambiguity.
 
 I bring  roughly 1460 days of startup experience, and my contribution goes beyond coding: I help build teams, define working styles, and create systems that scale across product and consulting environments.If you’d like to understand the impact of my work and assess my experience, let’s have a coffee chat or a meeting.
 
