@@ -22,7 +22,6 @@ I relate my working style to being steady, thoughtful, and focused on the small 
 - Building a Agentic LLM for my local use.
 
 ##### Skills I gathered so far:
-### Skills & Keywords
 
 ![Startup Experience](https://img.shields.io/badge/Startup%20Experience-4%20Years-FF6B35?style=flat-square&logo=rocket&logoColor=white)
 ![People Architect](https://img.shields.io/badge/People%20Architect-Team%20Builder-6F42C1?style=flat-square&logo=teamspeak&logoColor=white)
