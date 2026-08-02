@@ -19,7 +19,7 @@ I bring  roughly 1460 days of startup experience, and my contribution goes beyon
 - Automated legacy ad-hoc reporting workflows into scheduled cloud pipelines to improve consistency and reduce manual effort. ![Automation](https://img.shields.io/badge/Automation-6F42C1?style=flat-square&logo=githubactions&logoColor=white) ![ETL](https://img.shields.io/badge/ETL-4B8BBE?style=flat-square&logo=databricks&logoColor=white)![Reliability](https://img.shields.io/badge/Reliability-2EA44F?style=flat-square&logo=checkmarx&logoColor=white)
 
  --- 
- ### Work Style:
+ ### Collobarative skills:
 - Built and managed multiple teams not only for project delivery (product + consulting), but also for governance and operating principles.For example, I helped build a team focused on ensuring  that architecture across ongoing projects was robust, while also designing architecture for upcoming projects.![People Architect](https://img.shields.io/badge/People%20Architect-Team%20Builder-6F42C1?style=flat-square&logo=teamspeak&logoColor=white)![Team Building](https://img.shields.io/badge/Team%20Building-2EA44F?style=flat-square&logo=github&logoColor=white)
   ![Governance](https://img.shields.io/badge/Governance-0A66C2?style=flat-square&logo=probot&logoColor=white)![Architecture](https://img.shields.io/badge/Architecture-0B7285?style=flat-square&logo=datadog&logoColor=white)
   
