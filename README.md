@@ -39,13 +39,37 @@ Not every move works, but each iteration improves the process, and strong projec
 
 ##### Currently working on:
 
-- Statistical modeling with Python.  
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![Statistics](https://img.shields.io/badge/Statistics-1F6FEB?style=flat-square&logo=scikitlearn&logoColor=white)
+-  Volunteering as a **Social Media Strategist** for [WePlant](https://weplant.in), an NGO in India, supporting digital communication and community-focused initiatives.  
+  ![Social Media Strategy](https://img.shields.io/badge/Social%20Media%20Strategy-9146FF?style=flat-square&logo=buffer&logoColor=white)
+  ![Volunteering](https://img.shields.io/badge/Volunteering-2EA44F?style=flat-square&logo=heart&logoColor=white)
+  ![Community Impact](https://img.shields.io/badge/Community%20Impact-0B7285?style=flat-square&logo=leaflet&logoColor=white)
+- Building practical **data engineering and analytics systems** for small organisations, with a focus on local-first, open-source tooling, reliable ingestion, transformation, and useful reporting.  
+  ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-1F6FEB?style=flat-square&logo=apachehadoop&logoColor=white)
+  ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+  ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?style=flat-square&logo=opensourceinitiative&logoColor=white)
 
-- Building an agentic LLM for local use.  
-  ![LLM](https://img.shields.io/badge/LLM-000000?style=flat-square&logo=openai&logoColor=white)
+- Exploring **geospatial analysis**, combining public-interest mapping, environmental data, and responsible analysis of open historical datasets.  
+  ![Geospatial](https://img.shields.io/badge/Geospatial%20Analysis-0B7285?style=flat-square&logo=openstreetmap&logoColor=white)
+  ![PostGIS](https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+- Developing **document-intelligence workflows** using synthetic data, schema validation, and human-in-the-loop review patterns.  
+  ![Document Intelligence](https://img.shields.io/badge/Document%20Intelligence-6F42C1?style=flat-square&logo=readthedocs&logoColor=white)
+  ![Data Validation](https://img.shields.io/badge/Data%20Validation-1F6FEB?style=flat-square&logo=checkmarx&logoColor=white)
+
+- Learning **FastAPI, LangChain, MCP concepts, local LLMs, and bounded agent workflows**, with an emphasis on evaluation, security, and reliable tool use.  
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+  ![Local LLMs](https://img.shields.io/badge/Local%20LLMs-000000?style=flat-square&logo=openai&logoColor=white)
   ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+
+- Building a reproducible **statistical research framework** for hypothesis testing and sports analytics.  
+  ![Statistics](https://img.shields.io/badge/Statistics-1F6FEB?style=flat-square&logo=scikitlearn&logoColor=white)
+  ![Research](https://img.shields.io/badge/Reproducible%20Research-8A2BE2?style=flat-square&logo=jupyter&logoColor=white)
+
+- Strengthening software-engineering foundations through testing, Docker, CI, data governance, and open-source collaboration.  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+  ![Testing](https://img.shields.io/badge/Testing-25A162?style=flat-square&logo=pytest&logoColor=white)
 
 ---
 
