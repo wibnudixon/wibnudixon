@@ -2,13 +2,13 @@
 
 I’ve worked across multiple cloud systems using Databricks, Alteryx, PySpark, Python, and SQL to deliver end-to-end data solutions - from requirement gathering and pipeline/model execution to QA and business handoff. I enjoy solving messy data problems, especially when there’s ambiguity.
 
-I bring  roughly 4 years of startup experience, and my contribution goes beyond coding: I help build teams, define working styles, and create systems that scale across product and consulting environments. If you’d like to understand the impact of my work and assess my experience, let’s have a coffee chat or a meeting. I can expand on the current work I do which is present in private repos, I have added the topics in the end of the Readme.
+I bring  roughly 4 years of startup experience, and my contribution goes beyond coding: I help build teams, define working styles, and create systems that scale across product and consulting environments. If you’d like to understand the impact of my work and assess my experience, let’s have a coffee chat or a meeting. I can expand on the current work I do, which is present in private repos, I have added the topics in the end of the Readme.
 
 ---
 
 ##### A few examples of my work:
 
-- Improved model data-processing runtime by **X%** by moving workflows from pandas/Python to distributed PySpark processing.![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)![Optimization](https://img.shields.io/badge/Optimization-2EA44F?style=flat-square&logo=speedtest&logoColor=white)
+- Improved model data-processing runtime by X% by moving workflows from pandas/Python to distributed PySpark processing.![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)![Optimization](https://img.shields.io/badge/Optimization-2EA44F?style=flat-square&logo=speedtest&logoColor=white)
   
 - Delivered customer and product data models in Databricks to support analytics use cases through transformations and reusable curated datasets. ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-1F6FEB?style=flat-square&logo=databricks&logoColor=white)![Analytics](https://img.shields.io/badge/Analytics-5B2CFF?style=flat-square&logo=googleanalytics&logoColor=white)
   
@@ -39,30 +39,30 @@ Not every move works, but each iteration improves the process, and strong projec
 
 ##### Currently working on:
 
--  Volunteering as a **Social Media Strategist** for [WePlant](https://weplant.in), an NGO in India, supporting digital communication and community-focused initiatives.  
+-  Volunteering as a Social Media Strategist for [WePlant](https://weplant.in), an NGO in India, supporting digital communication and community-focused initiatives.{} 
   ![Social Media Strategy](https://img.shields.io/badge/Social%20Media%20Strategy-9146FF?style=flat-square&logo=buffer&logoColor=white)
   ![Volunteering](https://img.shields.io/badge/Volunteering-2EA44F?style=flat-square&logo=heart&logoColor=white)
   ![Community Impact](https://img.shields.io/badge/Community%20Impact-0B7285?style=flat-square&logo=leaflet&logoColor=white)
-- Building practical **data engineering and analytics systems** for small organisations, with a focus on local-first, open-source tooling, reliable ingestion, transformation, and useful reporting.  
+- Building practical data engineering and analytics systems for small organisations, with a focus on local-first, open-source tooling, reliable ingestion, transformation, and useful reporting.  {_far fetched_}
   ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-1F6FEB?style=flat-square&logo=apachehadoop&logoColor=white)
   ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
   ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?style=flat-square&logo=opensourceinitiative&logoColor=white)
 
-- Exploring **geospatial analysis**, combining public-interest mapping, environmental data, and responsible analysis of open historical datasets.  
+- Exploring geospatial analysis, combining public-interest mapping, environmental data, and responsible analysis of open historical datasets.{_learning module_}  
   ![Geospatial](https://img.shields.io/badge/Geospatial%20Analysis-0B7285?style=flat-square&logo=openstreetmap&logoColor=white)
   ![PostGIS](https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-- Developing **document-intelligence workflows** using synthetic data, schema validation, and human-in-the-loop review patterns.  
+- Developing document-intelligence workflows using synthetic data, schema validation, and human-in-the-loop review patterns.  
   ![Document Intelligence](https://img.shields.io/badge/Document%20Intelligence-6F42C1?style=flat-square&logo=readthedocs&logoColor=white)
   ![Data Validation](https://img.shields.io/badge/Data%20Validation-1F6FEB?style=flat-square&logo=checkmarx&logoColor=white)
 
-- Learning **FastAPI, LangChain, MCP concepts, local LLMs, and bounded agent workflows**, with an emphasis on evaluation, security, and reliable tool use.  
+- Learning FastAPI, LangChain, MCP concepts, local LLMs, and bounded agent workflows, with an emphasis on evaluation, security, and reliable tool use.  
   ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
   ![Local LLMs](https://img.shields.io/badge/Local%20LLMs-000000?style=flat-square&logo=openai&logoColor=white)
   ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 
-- Building a reproducible **statistical research framework** for hypothesis testing and sports analytics.  
+- Building a reproducible statistical research framework for hypothesis testing and sports analytics.{_personal use_} 
   ![Statistics](https://img.shields.io/badge/Statistics-1F6FEB?style=flat-square&logo=scikitlearn&logoColor=white)
   ![Research](https://img.shields.io/badge/Reproducible%20Research-8A2BE2?style=flat-square&logo=jupyter&logoColor=white)
 
