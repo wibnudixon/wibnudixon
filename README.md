@@ -39,7 +39,7 @@ Not every move works, but each iteration improves the process, and strong projec
 
 ##### Currently working on:
 
--  Volunteering as a Social Media Strategist for [WePlant](https://weplant.in), an NGO in India, supporting digital communication and community-focused initiatives.{} 
+-  Volunteering as a Social Media Strategist for [WePlant](https://weplant.in), an NGO in India, supporting digital communication and community-focused initiatives.
   ![Social Media Strategy](https://img.shields.io/badge/Social%20Media%20Strategy-9146FF?style=flat-square&logo=buffer&logoColor=white)
   ![Volunteering](https://img.shields.io/badge/Volunteering-2EA44F?style=flat-square&logo=heart&logoColor=white)
   ![Community Impact](https://img.shields.io/badge/Community%20Impact-0B7285?style=flat-square&logo=leaflet&logoColor=white)
