@@ -43,15 +43,6 @@ Not every move works, but each iteration improves the process, and strong projec
   ![Social Media Strategy](https://img.shields.io/badge/Social%20Media%20Strategy-9146FF?style=flat-square&logo=buffer&logoColor=white)
   ![Volunteering](https://img.shields.io/badge/Volunteering-2EA44F?style=flat-square&logo=heart&logoColor=white)
   ![Community Impact](https://img.shields.io/badge/Community%20Impact-0B7285?style=flat-square&logo=leaflet&logoColor=white)
-- Building practical data engineering and analytics systems for small organisations, with a focus on local-first, open-source tooling, reliable ingestion, transformation, and useful reporting.  {_far fetched_}
-  ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-1F6FEB?style=flat-square&logo=apachehadoop&logoColor=white)
-  ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
-  ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?style=flat-square&logo=opensourceinitiative&logoColor=white)
-
-- Exploring geospatial analysis, combining public-interest mapping, environmental data, and responsible analysis of open historical datasets.{_learning module_}  
-  ![Geospatial](https://img.shields.io/badge/Geospatial%20Analysis-0B7285?style=flat-square&logo=openstreetmap&logoColor=white)
-  ![PostGIS](https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 - Developing document-intelligence workflows using synthetic data, schema validation, and human-in-the-loop review patterns.  
   ![Document Intelligence](https://img.shields.io/badge/Document%20Intelligence-6F42C1?style=flat-square&logo=readthedocs&logoColor=white)
