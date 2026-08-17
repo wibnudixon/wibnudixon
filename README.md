@@ -8,7 +8,7 @@ I bring  roughly 4 years of startup experience, and my contribution goes beyond 
 
 ##### A few examples of my work:
 
-- Improved model data-processing runtime by X% by moving workflows from pandas/Python to distributed PySpark processing.![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)![Optimization](https://img.shields.io/badge/Optimization-2EA44F?style=flat-square&logo=speedtest&logoColor=white)
+- Improved model data-processing runtime by nearly 40% by moving workflows from pandas/Python to distributed PySpark processing.![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)![Optimization](https://img.shields.io/badge/Optimization-2EA44F?style=flat-square&logo=speedtest&logoColor=white)
   
 - Delivered customer and product data models in Databricks to support analytics use cases through transformations and reusable curated datasets. ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white) ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-1F6FEB?style=flat-square&logo=databricks&logoColor=white)![Analytics](https://img.shields.io/badge/Analytics-5B2CFF?style=flat-square&logo=googleanalytics&logoColor=white)
   
