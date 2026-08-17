@@ -24,3 +24,5 @@ venv/
 # Node (if you use JS tooling)
 node_modules/
 dist/
+
+.md
